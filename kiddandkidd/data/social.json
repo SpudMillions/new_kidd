@@ -1,0 +1,13 @@
+[
+    {
+
+        "name": "LinkedIn",
+        "link": "https://linkedin.com/company/kiddkidd/about/",
+        "image": "images/social/linkedin.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/kiddandkiddcpas",
+        "image": "images/social/facebook.svg"
+    }
+]

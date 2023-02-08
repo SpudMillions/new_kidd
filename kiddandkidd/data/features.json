@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Accounting",
+    "description": "Our accounting services provide thorough, accurate reporting and critical analysis that allow you to evaluate your financial health and realize your business goals.",
+    "image": "images/features/accounting.svg"
+  },
+  {
+    "title": "Tax Planning & Preparation",
+    "description": "Our personal, one-on-one service and expert tax return preparation and advice will give you peace of mind, knowing that your tax return is in capable hands.",
+    "image": "images/features/ledger.svg"
+  },
+  {
+    "title": "Business Consulting",
+    "description": "We support clients on a full-service basis. Our business consulting services ensure that you are successful from the launch of your business and as you move forward.",
+    "image": "images/features/consultation.svg"
+  },
+  {
+    "title": "Outsourced Accounting",
+    "description": "Outsourced Accounting is an all-inclusive solution that offers small businesses relief from the day-to-day accounting hassles while providing 24/7 access to financial data.",
+    "image": "images/features/box.svg"
+  },
+  {
+    "title": "Tax Compliance",
+    "description": "We stay up to date on the latest changes to the tax code. We can help you navigate the complexities of tax compliance and ensure that you are in compliance with all tax laws.",
+    "image": "images/features/advisory.svg"
+  },
+  {
+    "title": "Advisory",
+    "description": "We offer a full range of advisory services, including payroll tax filing, direct deposit, and W-2 and 1099 preparation. We can also help you with your business planning.",
+    "image": "images/features/taxes.svg"
+  }
+]
