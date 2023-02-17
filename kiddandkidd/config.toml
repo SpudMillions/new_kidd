@@ -111,7 +111,7 @@ title = "Kidd and Kidd CPA"
 
   [[menu.footer]]
     name = "Make a Payment"
-    url = "/contact/"
+    url = "https://checkout.square.site/pay/383210dd21b147f5ba8f746dedbdde10"
     weight = 2
     [menu.footer.params]
       tele = false
