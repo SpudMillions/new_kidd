@@ -1,0 +1,27 @@
+{{ define "body_classes" }}page-contact{{ end }}
+
+{{ define "main" }}
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="service service-single">
+        <h1 class="title">{{.Title}}</h1>
+        {{ partial "call.html" (dict "site" .Site "context" . "show_button" "false") }}
+        <div class="content mt-4">{{.Content}}</div>
+        <div class="map" style="margin-top: 10px;">
+          <iframe 
+            class="center-map" 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2819.9511519657513!2d-84.67766088445717!3d45.02591707909825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4d3545f62c138bc1%3A0xf3b88dd416ee789e!2s215+S+Court+Ave%2C+Gaylord%2C+MI+49735!5e0!3m2!1sen!2sus!4v1563724200420!5m2!1sen!2sus" 
+            width="600" 
+            height="450" 
+            frameborder="0" 
+            style="border:0" 
+            allowfullscreen="">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}
