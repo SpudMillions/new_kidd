@@ -3,9 +3,9 @@ title: 'Contact'
 date: 2018-02-22T17:01:34+07:00
 layout: contact
 
-## We would love to serve you and let you enjoy your accounting experience.
-
 ---
+
+## We would love to serve you and let you enjoy your accounting experience.
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
