@@ -85,20 +85,6 @@ title = "Kidd and Kidd CPA"
     [menu.main.params]
       blank = true
 
-  [[menu.main]]
-    name = "Sign In"
-    url = "https://onvio.us/clientcenter/company/273B9038C94D4F63AF4B2EEB35D4907C"
-    weight = 6
-    [menu.main.params]
-      blank = true
-
-  [[menu.main]]
-    name = "Payment"
-    url = "https://checkout.square.site/pay/383210dd21b147f5ba8f746dedbdde10"
-    weight = 7
-    [menu.main.params]
-      blank = true
-
 
 
   # Footer Menu

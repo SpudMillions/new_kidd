@@ -4,8 +4,9 @@ date: 2023-02-07T10:00:00+00:00
 draft: false
 image: 'images/team/jamie.jpg'
 jobtitle: 'Firm Administrator'
-linkedinurl: 'https://www.linkedin.com/'
-weight: 3
+linkedinurl: 'https://www.linkedin.com/in/jamieleekidd/'
+promoted: true
+weight: 4
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Jamie joined her husband, Mark, at Kidd & Kidd CPAs in 2022.

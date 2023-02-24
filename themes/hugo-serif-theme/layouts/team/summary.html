@@ -1,7 +1,11 @@
 <div class="team team-summary">
   {{ if .Params.image }}
   <div class="team-image">
-    <img width="360" height="360" alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
+    {{ if .Params.PageUrl }}
+    <a href="{{.Site.Home.RelPermalink }}{{ .Params.PageUrl }}"><img width="360" height="360" alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" /></a>
+    {{ else }}
+    <img width="360" height="360" alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL  }}" />
+    {{ end }}
   </div>
   {{ end }}
   <div class="team-meta">
