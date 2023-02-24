@@ -1,7 +1,7 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
-description: "Serif is a modern business theme for Hugo."
+meta_title: 'Kidd & Kidd CPAs'
+description: "Your Accounting and Tax Professionals"
 intro_image: "images/illustrations/business.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
