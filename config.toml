@@ -2,7 +2,7 @@ baseURL = "https://spudmillions.github.io/new_kidd/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Kidd and Kidd CPA"
+title = "Welcome to Kidd & Kidd CPAs"
 
 [module]
   [module.hugoVersion]
@@ -79,7 +79,7 @@ title = "Kidd and Kidd CPA"
       blank = true
 
   [[menu.main]]
-    name = "Portal"
+    name = "Client Portal"
     url = "https://onvio.us/clientcenter/en/us/auth?r=%2Fhome"
     weight = 5
     [menu.main.params]

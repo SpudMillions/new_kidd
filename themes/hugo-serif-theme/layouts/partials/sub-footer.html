@@ -4,7 +4,9 @@
       <div class="col-12">
         <div class="sub-footer-inner">
           {{ if .Site.Data.social }}
+            <div><h4>Join us on our social media channels</h4>
             {{ partial "social.html" . }}
+          </div>
           {{ end }}
           {{ with .Site.Params.footer.copyright_text }}
             <div class="copyright">{{ . | safeHTML }}</div>
