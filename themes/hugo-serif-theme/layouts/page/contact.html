@@ -8,20 +8,9 @@
         <h1 class="title">{{.Title}}</h1>
         {{ partial "call.html" (dict "site" .Site "context" . "show_button" "false") }}
         <div class="content mt-4">{{.Content}}</div>
-        <div class="map" style="margin-top: 10px;">
-          <iframe 
-            class="center-map" 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2819.9511519657513!2d-84.67766088445717!3d45.02591707909825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4d3545f62c138bc1%3A0xf3b88dd416ee789e!2s215+S+Court+Ave%2C+Gaylord%2C+MI+49735!5e0!3m2!1sen!2sus!4v1563724200420!5m2!1sen!2sus" 
-            width="600" 
-            height="450" 
-            frameborder="0" 
-            style="border:0" 
-            allowfullscreen="">
-          </iframe>
-        </div>
+        <div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=103 N. Center Ave, Gaylord, MI 49735&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://connectionsgame.org/">Connections NYT</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:400px;}.gmap_iframe {height:400px!important;}</style></div>
       </div>
     </div>
   </div>
 </div>
-
 {{ end }}
