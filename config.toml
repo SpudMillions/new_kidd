@@ -73,7 +73,7 @@ title = "Welcome to Kidd & Kidd CPAs"
 
   [[menu.main]]
     name = "Book An Appointment"
-    url = "https://calendly.com/markkidd/30min"
+    url = "https://calendly.com/markkidd/60min"
     weight = 4
     [menu.main.params]
       blank = true
