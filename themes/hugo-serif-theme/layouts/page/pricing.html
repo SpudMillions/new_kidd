@@ -1,14 +1,200 @@
 {{ define "body_classes" }}page-contact{{ end }}
 
 {{ define "main" }}
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-  <div class="row justify-content-start">
-    <div class="col-12 col-md-8">
-      <div class="service service-single">
-        <h1 class="title">{{.Title}}</h1>
-        <div class="content mt-4">{{.Content}}</div>
-       </div>
+<style>
+    td, th {
+        padding: 1%;
+    }
+</style>
+<div class="container">
+    <div class="row justify-content-start">
+    <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1" style="padding-bottom: 5%">
+      <h1 style="padding-top: 5%">Business Services</h1>
+      <p>Think of us as your internal accounting department</p>
+      <table class="table table-striped table-hover table-bordered">
+        <thead>
+            <tr>
+            <th scope="col">Service</th>
+            <th scope="col">Essential</th>
+            <th scope="col">Growth</th>
+            <th scope="col">Complete</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td style="background-color: #6A86B1; color: white; font-weight: bold;">Bookkeeping</td>
+            <td style="background-color: #6A86B1;"></td>
+            <td style="background-color: #6A86B1;"></td>
+            <td style="background-color: #6A86B1;"></td>
+            </tr>
+            <tr>
+            <td>Record Transactions in QuickBooks Online</td>
+            <td>-</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td>Reconcile Bank Accounts</td>
+            <td>x</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td>Reconcile electronic transactions into QuickBooks Online</td>
+            <td>x</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td>Reconcile credit card accounts</td>
+            <td>x</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td style="background-color: #6A86B1; color: white; font-weight: bold;">Payroll</td>
+            <td style="background-color: #6A86B1;"></td>
+            <td style="background-color: #6A86B1;"></td>
+            <td style="background-color: #6A86B1;"></td>
+            </tr>
+            <tr>
+            <td>Process payroll checks (direct deposit)</td>
+            <td>-</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td>Prepare payroll tax returns</td>
+            <td>-</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td style="background-color: #6A86B1; color: white; font-weight: bold;">Tax</td>
+            <td style="background-color: #6A86B1;"></td>
+            <td style="background-color: #6A86B1;"></td>
+            <td style="background-color: #6A86B1;"></td>
+            </tr>
+            <tr>
+            <td>Prepare corporate income tax returns</td>
+            <td>x</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td>Prepare officers' personal income tax returns</td>
+            <td>x</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td>Comprehensive tax planning</td>
+            <td>x</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td>Prepare 1099's for contractors </td>
+            <td>-</td>
+            <td>-</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td style="background-color: #6A86B1; color: white; font-weight: bold;">Accounts Payable</td>
+            <td style="background-color: #6A86B1;"></td>
+            <td style="background-color: #6A86B1;"></td>
+            <td style="background-color: #6A86B1;"></td>
+            </tr>
+            <tr>
+            <td>Process bills and vendor payments</td>
+            <td>-</td>
+            <td>-</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td>Provide digital access to paid bills</td>
+            <td>-</td>
+            <td>-</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td style="background-color: #6A86B1; color: white; font-weight: bold;">Other</td>
+            <td style="background-color: #6A86B1;"></td>
+            <td style="background-color: #6A86B1;"></td>
+            <td style="background-color: #6A86B1;"></td>
+            </tr>
+            <tr>
+            <td>Consultations per year</td>
+            <td>-</td>
+            <td>4</td>
+            <td>12</td>
+            </tr>
+            <tr>
+            <td>24 hour response time on all emails and calls</td>
+            <td>-</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td>Prepare monthly financial reports</td>
+            <td>-</td>
+            <td>x</td>
+            <td>x</td>
+            </tr>
+            <tr>
+            <td style="font-weight: bold">Starting Monthly Price</td>
+            <td style="font-weight: bold">$600</td>
+            <td style="font-weight: bold">$900</td>
+            <td style="font-weight: bold">$1,600</td>
+            </tr>
+        </tbody>
+      </table>
     </div>
-  </div>
-</div>
+    <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+      <h1 style="padding-top: 5%">Tax Return Pricing</h1>
+      <p>Here to help you</p>
+    <table class="table table-striped table-hover">
+      <thead>
+        <tr>
+        <th scope="col">Service</th>
+        <th scope="col">Price</th>
+        </tr>
+      </thead>
+    <tbody>
+    <tr>
+        <td style="background-color: #6A86B1; color: white; font-weight: bold;">1040s - Individual Tax Return Preparation</td>
+        <td style="background-color: #6A86B1;"></td>
+    </tr>
+    <tr>
+        <td>Individual 1040</td>
+        <td>$ 400.00</td>
+    </tr>
+    <tr>
+        <td>Schedule E - Rental Property</td>
+        <td>$ 700.00</td>
+    </tr>
+    <tr>
+        <td>Schedule C - Small Business</td>
+        <td>$ 800.00</td>
+    </tr>
+    <tr>
+        <td style="background-color: #6A86B1; color: white; font-weight: bold;">Business Entity Returns (1120, 1120-S, &amp; 1065)</td>
+        <td style="background-color: #6A86B1;"></td>
+    </tr>
+    <tr>
+        <td>Form 1065 - Partnership holding rentals or property</td>
+        <td>$ 1,000.00</td>
+    </tr>
+    <tr>
+        <td>1120, 1120-S, &amp; 1065 business returns </td>
+        <td>See Business Service pricing table</td>
+    </tr>
+    </tbody>
+    </table>
+    <div>
+        <p> We no longer offer standalone business tax return preparation.  All new business returns must select a package that includes bookkeeping and tax return preparation. If you are already signed up for online payroll service you will not be required to switch to our provider.</p>
+    </div>
+      </div>
+    </div>
+    {{ .Content }}
 {{ end }}

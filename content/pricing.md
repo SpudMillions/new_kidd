@@ -4,34 +4,6 @@ date: 2024-11-04T08:01:34+07:00
 layout: pricing
 
 ---
-
-# Business Services												
-## Think of us as your internal accounting department!
-
-| | Essential | Growth | Complete |
-|-|-----------|--------|----------|
-| **Bookkeeping** | | | |
-| Record Transactions in QuickBooks Online | - | x | x |
-| Reconcile Bank Accounts | x | x | x |
-| Reconcile electronic transactions into QuickBooks Online | x | x | x |
-| Reconcile credit card accounts | x | x | x |
-| **Payroll** | | | |
-| Process payroll checks (direct deposit) | - | x | x |
-| Prepare payroll tax returns | - | x | x |
-| **Tax** | | | |
-| Prepare corporate income tax returns | x | x | x |
-| Prepare officers' personal income tax returns | x | x | x |
-| Comprehensive tax planning | x | x | x |
-| Prepare 1099's for contractors | - | - | x |
-| **Accounts Payable** | | | |
-| Process bills and vendor payments | - | - | x |
-| Provide digital access to paid bills | - | - | x |
-| **Other** | | | |
-| Consultations per year | - | 4 | 12 |
-| 24 hour response time on all emails and calls | - | x | x |
-| Prepare monthly financial reports | - | x | x |
-| **Starting Monthly Price** | $600 | $900 | $1,600 |				
-
 ## Our Goal
 Our goal in packaging our business services is to act as your partner, not just your accountant. We strive to build relationships with you so that we can efficiently answer questions and provide guidance to help each of you achieve your goals.
 
