@@ -1,85 +1,75 @@
 ---
 title: 'Privacy Policy'
-date: 2025-01-15T08:00:00+00:00
+date: 2025-02-08T08:00:00+00:00
 layout: privacy-policy
 
 ---
-## TCR Privacy Policy and Terms &amp; Conditions for SMS texting
-Effective Date: 01/16/2025
+Effective Date: 01.01.2025
 
-Kidd &amp; Kidd CPAs (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) is committed to protecting your privacy. This Privacy
-Policy explains how we collect, use, and share information when you use our SMS services.
+At Kidd &amp; Kidd CPAs (&quot;we,&quot; &quot;our,&quot; &quot;us&quot;), your privacy is our priority. This Privacy Policy explains how we collect, use, and protect your information when you visit our website or
+use our services.
 
-1. **Information We Collect**
-- Personal Information: We may collect your name, phone number, and any other
-details you provide when signing up for our SMS services.
-- Usage Data: We may collect information about how you interact with our SMS
-messages, such as the time and date of your interactions, message content, and
-delivery status.
+## 1. INFORMATION WE COLLECT
+We may collect the following types of information:
+### a. Personal Information
+When you contact us, sign up for services, or subscribe to communications, we may
+collect:
+- Name
+- Email address
+- Phone number (including SMS opt-ins)
+- Address
+- Payment or billing information (for service payments)
+### b. Non-Personal Information
+When you interact with our website, we may automatically collect:
+- Browser type and version
+- IP address
+- Pages visited
+- Device information
+- Cookies and similar technologies
+### 2. HOW WE USE YOUR INFORMATION
+We use the information collected to:
+- Provide services to you.
+- Communicate with you, including SMS alerts.
+- Improve our website and services.
+- Process payments securely.
+- Comply with legal requirements.
 
-2. **How We Use Your Information**
-- To send SMS notifications
-- To respond to your inquiries or requests.
-- To improve our services and provide better customer support.
+### 3. HOW WE SHARE YOUR INFORMATION
+We do not sell your personal information. We may share your information with:
+- Legal authorities if required to comply with applicable laws or protect our rights.
 
-3. **Sharing Your Information**
-- We do not sell, trade or share your personal information. The phone numbers
-collected for SMS consent will not be shared with third parties of affiliates for
-marketing purposes.
+### 4. YOUR CHOICES
+You have the following options regarding your data:
+- Opt-Out of Communications: Reply STOP to unsubscribe from SMS messages or
+contact us at Mark@kiddandkiddcpa.com.
+- Access or Update Information: Contact us at 989.751.9547 to request updates to
+your personal information.
+- Disable Cookies: Adjust your browser settings to disable cookies, though this
+may affect website functionality.
 
-4. **Data Security**
-- We implement appropriate technical and organizational measures to protect your
-data from unauthorized access, use, or disclosure.
+### 5. DATA SECURITY
+We implement appropriate security measures to protect your information. While we
+strive to protect your data, no method of transmission over the internet is 100% secure.
 
-5. **Your Rights**
-- You have the right to opt out of receiving SMS messages by replying &quot;STOP&quot; to
-any message you receive from us.
-- You may request access to or deletion of your personal data by contacting us at
-Mark@kiddandkiddcpa.com
+### 6. THIRD-PARTY LINKS
+Our website may include links to third-party websites. We are not responsible for the
+privacy practices or content of those websites. Please review their privacy policies
+before sharing your information.
 
-6. **Changes to This Privacy Policy**
-- We may update this Privacy Policy from time to time. Changes will be posted with
-an updated &quot;Effective Date&quot; at the top.
+### 7. CHILDREN&#39;S PRIVACY
+Our website and services are not intended for individuals under the age of 13. We do
+not knowingly collect personal information from children.
 
-## Terms &amp; Conditions
-Effective Date: 01/16/2025
+### 8. UPDATES TO THIS PRIVACY POLICY
+We may update this Privacy Policy from time to time. Changes will be posted on this
+page with the updated effective date.
 
-By subscribing to our SMS services, you agree to the following terms and conditions:
-1. **Service Description**
-- Our SMS service provides updates, promotions, and notifications directly to your
-mobile device.
+### 9. CONTACT US
 
-2. **Consent to Receive Messages**
-- By opting in, you agree to receive recurring SMS messages from us. Standard
-message and data rates may apply. You must text us first at 989-751-9547 to
-provide consent to receive message from us.
+If you have questions or concerns about this Privacy Policy, please contact us:
 
-3. **Opt-Out**
-- You may opt out at any time by replying &quot;STOP&quot; to any SMS message. After
-opting out, you will no longer receive messages from us.
+Email: Mark@kiddandkiddcpa.com
 
-4. **User Responsibilities**
-- Ensure that the phone number you provide is accurate and that you have the
-authority to opt into our SMS service.
+Phone: 989.751.9547
 
-5. **Prohibited Use**
-- You agree not to use our SMS service for any unlawful or abusive purposes.
-
-6. **Liability**
-- We are not liable for any delays or failures in the delivery of messages due to
-network issues, carrier restrictions, or unforeseen circumstances.
-
-7. **Amendments**
-- We reserve the right to update these Terms &amp; Conditions at any time. Changes
-will be effective upon posting.
-
-8. **Contact Us**
-- If you have questions or concerns, please contact us at:
-
-Kidd &amp; Kidd CPAs  
-103 N. Center Ave  
-Gaylord, MI 49735  
-989-751-9547
-
-By using our SMS service, you acknowledge that you have read and agree to these Privacy
-Policy and Terms &amp; Conditions.
+Address: 103 N. Center Ave, Gaylord, MI 49735
